@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I use .NET and NodeJS to build stuff. :rocket:
+
 <!--
 **Redouane64/redouane64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
