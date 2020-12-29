@@ -2,7 +2,9 @@
 
 ### I use .NET and NodeJS to build stuff. :rocket:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=redouane64&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=redouane64&count_private=true&&show_icons=true&theme=radical&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redouane64&langs_count=4&hide=html&layout=compact)](https://github.com/redouane64)
 
 <!--
 **Redouane64/redouane64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
